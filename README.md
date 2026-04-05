@@ -11,7 +11,6 @@
 [![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?logo=adobeacrobatreader&logoColor=white)](https://ramjianonmyous.github.io/My_Portfolio/resume.pdf) 
 [![Blog](https://img.shields.io/badge/Blog-%230A66C2.svg?logo=hashnode&logoColor=white)](YOUR_BLOG_LINK) 
 [![Hydrosoln](https://img.shields.io/badge/Hydrosoln-%2300C853.svg?logo=google-chrome&logoColor=white)](YOUR_HYDROSOLN_LINK)  
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-kaithwas-329419257/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ram_ji_madboy) 
@@ -45,15 +44,10 @@
 ![AI](https://img.shields.io/badge/AI-%2300C853.svg?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-%2300B0FF.svg?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
----
-
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
 
 ---
 
