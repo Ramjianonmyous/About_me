@@ -59,6 +59,10 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+## ✍️ Dev Quote  
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ## 📊 Advanced GitHub Analytics  
 
@@ -87,11 +91,5 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramjianonmyous&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramjianonmyous&theme=tokyonight&utcOffset=5.5" />
 </p>
-
----
-
-## ✍️ Dev Quote  
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
