@@ -90,18 +90,6 @@
 </p>
 
 ---
-## ⚡ Fun Fact  
-🚀 I love building real-world tech — from dashboards to AI-powered robots 🤖  
-
----
-
-## 👀 Profile Views  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramjianonmyous&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ## ✍️ Dev Quote  
 
