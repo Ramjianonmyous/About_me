@@ -4,6 +4,16 @@
 🌱 Learning: Advanced Cloud & System Design  
 👯 Looking to collaborate on: MERN + AI + IoT Projects  
 
+## 📊 Profile Summary  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramjianonmyous&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramjianonmyous&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramjianonmyous&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramjianonmyous&theme=tokyonight&utcOffset=5.5" />
+</p>
 ---
 
 ## 🌐 Links:
@@ -86,7 +96,7 @@
 
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/Ramjianonmyous/Ramjianonmyous/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 ## 📊 Advanced GitHub Analytics  
